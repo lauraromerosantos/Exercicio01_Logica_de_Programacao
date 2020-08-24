@@ -1,5 +1,7 @@
 # Exercicio01_Logica_de_Programacao
  Exercício desenvolvido em Python para a Disciplina Lógica de Programação.
+ ________________________________________________________________________
+ ### Enunciado
 
 Uma empresa de pesquisas precisa tabular os resultados
 da seguinte enquete feita a um grande quantidade de
