@@ -1,7 +1,6 @@
 # Exercicio01_Logica_de_Programacao
  Exercício desenvolvido em Python para a Disciplina Lógica de Programação.
 
-Entrega: 
 Uma empresa de pesquisas precisa tabular os resultados
 da seguinte enquete feita a um grande quantidade de
 organizações:
@@ -9,12 +8,12 @@ organizações:
 
 As possíveis respostas são:
 
-1- Windows Server
-2- Unix
-3- Linux
-4- Netware
-5- Mac OS
-6- Outro
+ 1. Windows Server
+ 2.  Unix
+ 3.  Linux
+ 4.  Netware 
+ 5. Mac OS 
+ 6.  Outro
 
 Você foi contratado para desenvolver um programa que
 leia o resultado da enquete e informe ao final o
