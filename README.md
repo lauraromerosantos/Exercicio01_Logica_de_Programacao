@@ -10,11 +10,11 @@ organizações:
 
 As possíveis respostas são:
 
- 1. Windows Server
+ 1.  Windows Server
  2.  Unix
  3.  Linux
  4.  Netware 
- 5. Mac OS 
+ 5.  Mac OS 
  6.  Outro
 
 Você foi contratado para desenvolver um programa que
@@ -29,3 +29,19 @@ armazenados num vetor.
 Após os dados terem sido completamente informados, o
 programa deverá calcular a percentual de cada um dos
 concorrentes e informar o vencedor da enquete.
+
+O formato da saída foi dado pela empresa, e é o seguinte:
+
+Sistema Operacional | Votos | %
+-------------------|--------|----
+| Windows Server   |1500   |17%
+| Unix             |3500   |40%
+| Linux            |3000   |34%
+| Netware          | 500   |5%
+| Mac OS           |150    |2%
+| Outro            |150    |2%
+-------------------|--------|----
+|Total             |     8800|
+
+O Sistema Operacional mais votado foi o Unix, com 3500 votos,
+correspondendo a 40% dos votos.
