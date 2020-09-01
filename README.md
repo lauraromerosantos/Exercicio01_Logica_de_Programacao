@@ -40,7 +40,7 @@ Sistema Operacional | Votos | %
 | Netware          | 500   |5%
 | Mac OS           |150    |2%
 | Outro            |150    |2%
--------------------|--------|----
+___________________|_______|___
 |Total             |     8800|
 
 O Sistema Operacional mais votado foi o Unix, com 3500 votos,
